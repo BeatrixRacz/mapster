@@ -130,3 +130,4 @@ public struct MapFeature
     [FieldOffset(21)] public int PropertiesOffset;
     [FieldOffset(25)] public int PropertyCount;
 }
+
